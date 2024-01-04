@@ -26,7 +26,7 @@ export default function Terms() {
             <ContentSection id="license" title="License">
                 <p>
                     Knaughts bot is under the{" "}
-                    <Link href="https://github.com/knaughtslabs/knaughts-bot/LICENSE.md" className="link">
+                    <Link href="https://github.com/KnaughtsLabs/knaughts-bot/blob/main/LICENSE" className="link">
                         MIT license
                     </Link>
                     .
