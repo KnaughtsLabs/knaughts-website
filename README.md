@@ -1,5 +1,5 @@
 # Knaughts Website
-<img src="https://i.imgur.com/MLaEUFy.png" />
+<img src="https://i.imgur.com/MLaEUFy.png" alt="The Knaughts logo." />
 
 The Knaughts website - view it at https://knaughts.xyz.
 
