@@ -16,7 +16,7 @@ export default function Terms() {
             <ContentSection id="acceptance" title="Acceptance of Terms">
                 <p>By using Knaughts, you agree to comply with and be bound by these Terms of Use.</p>
                 <br />
-                <p>Effective date: 1 January 2024</p>
+                <p>Effective date: 6 January 2024</p>
                 <em>
                     Please be aware that we hold the right to update, change, or otherwise modify this Privacy Policy
                     document at any time.
@@ -40,7 +40,7 @@ export default function Terms() {
                     <li>No exploiting bugs or glitches for unfair advantages or gains;</li>
                     <li>Respect the privacy and rights of other users;</li>
                     <li>Do not use Knaughts to disseminate spam, malware, or harmful content;</li>
-                    <li>Comply with all applicable laws and regulations.</li>
+                    <li>Comply with all applicable UK laws and regulations.</li>
                 </ul>
             </ContentSection>
 

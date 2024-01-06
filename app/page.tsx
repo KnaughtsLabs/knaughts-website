@@ -13,13 +13,11 @@ export default function Home() {
         <main className="text-white centered text-start">
             <section id="hero" className="my-48">
                 <h1 className="font-title text-4xl md:text-6xl">
-                    knaughts<span className="text-orange text-2xl md:text-4xl">.</span>
-                    <br />
-                    Superpowered notes for Discord.
+                    Super-powered notes for <br /> Discord.
                 </h1>
                 <br />
                 <p className="subtitle text-sm font-title md:text-lg">
-                    (okay, not really superpowered... it just sounded cool)
+                    (okay, not really super-powered... it just sounded cool)
                 </p>
 
                 <br />
@@ -43,25 +41,14 @@ export default function Home() {
                     <br />
                     <p>
                         Knaughts (pronounced “noughts” - like noughts and crosses) is an intuitive note-taking bot for
-                        Discord. With Knaughts, you can conveniently create, view, delete and edit your encrypted notes.
-                        We're working hard to get some new functionality implemented, including an awesome web app where
-                        you'll be able to manage your notes. The best place to stay updated is on our{" "}
+                        Discord with <span className="font-bold">markdown support</span>. With Knaughts, you can
+                        conveniently create, view, delete and edit your <span className="font-bold">encrypted</span>{" "}
+                        notes. We're working hard to get some new functionality implemented, including an awesome web
+                        app where you'll be able to manage your notes. The best place to stay updated is on our{" "}
                         <Link href="/twitter" className="link">
                             Twitter/X page
-                        </Link>
-                        . Check out our bot guide{" "}
-                        <Link href="/guide" className="link">
-                            here
-                        </Link>
-                        . You can also view the source code for the{" "}
-                        <a href="https://github.com/knaughtslabs/knaughts-bot" className="link">
-                            bot
-                        </a>{" "}
-                        and{" "}
-                        <a href="https://github.com/knaughtslabs/website" className="link">
-                            this website
-                        </a>{" "}
-                        - stick around for updates!
+                        </Link>{" "}
+                        ⎯ stick around for updates!
                     </p>
                 </div>
             </section>
