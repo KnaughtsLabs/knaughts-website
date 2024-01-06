@@ -66,9 +66,6 @@ export default function Guide() {
                     <li>
                         <code>/about</code> - show an embed which has information about Knaughts.
                     </li>
-                    <li>
-                        <code>/ping</code> - get the bot's response latency.
-                    </li>
                 </ul>
             </ContentSection>
 
